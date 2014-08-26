@@ -1,0 +1,237 @@
+*#bg{
+    border-image: url(./image/bg.png);
+}
+
+*#titleBar_Label{
+    border-image: url(./image/titleBar.png);
+}
+
+*#result_Lable{
+    font-size : 30px;
+    font-family : "微软雅黑";
+    color: white;
+    border-image: url(./image/result_lable.png)
+}
+
+*#Num0{
+    border-image: url(./image/num0.png)
+}
+
+*#Num0:hover{
+    border-image: url(./image/num0_hover.png)
+}
+
+*#Num0:pressed{
+    border-image: url(./image/num0_pressed.png)
+}
+
+*#Num1{
+    border-image: url(./image/num1.png)
+}
+
+*#Num1:hover{
+    border-image: url(./image/num1_hover.png)
+}
+
+*#Num1:pressed{
+    border-image: url(./image/num1_pressed.png)
+}
+
+*#Num2{
+    border-image: url(./image/num2.png)
+}
+
+*#Num2:hover{
+    border-image: url(./image/num2_hover.png)
+}
+
+*#Num2:pressed{
+    border-image: url(./image/num2_pressed.png)
+}
+
+
+*#Num2:pressed{
+    border-image: url(./image/num2_pressed.png)
+}
+
+*#Num3{
+    border-image: url(./image/num3.png)
+}
+
+*#Num3:hover{
+    border-image: url(./image/num3_hover.png)
+}
+
+*#Num3:pressed{
+    border-image: url(./image/num3_pressed.png)
+}
+
+
+*#Num4{
+    border-image: url(./image/num4.png)
+}
+
+*#Num4:hover{
+    border-image: url(./image/num4_hover.png)
+}
+
+*#Num4:pressed{
+    border-image: url(./image/num4_pressed.png)
+}
+
+*#Num5{
+    border-image: url(./image/num5.png)
+}
+
+*#Num5:hover{
+    border-image: url(./image/num5_hover.png)
+}
+
+*#Num5:pressed{
+    border-image: url(./image/num5_pressed.png)
+}
+
+*#Num6{
+    border-image: url(./image/num6.png)
+}
+
+*#Num6:hover{
+    border-image: url(./image/num6_hover.png)
+}
+
+*#Num6:pressed{
+    border-image: url(./image/num6_pressed.png)
+}
+
+*#Num7{
+    border-image: url(./image/num7.png)
+}
+
+*#Num7:hover{
+    border-image: url(./image/num7_hover.png)
+}
+
+*#Num7:pressed{
+    border-image: url(./image/num7_pressed.png)
+}
+
+*#Num8{
+    border-image: url(./image/num8.png)
+}
+
+*#Num8:hover{
+    border-image: url(./image/num8_hover.png)
+}
+
+*#Num8:pressed{
+    border-image: url(./image/num8_pressed.png)
+}
+
+*#Num9{
+    border-image: url(./image/num9.png)
+}
+
+*#Num9:hover{
+    border-image: url(./image/num9_hover.png)
+}
+
+*#Num9:pressed{
+    border-image: url(./image/num9_pressed.png)
+}
+
+*#clear_btn{
+    border-image: url(./image/clear.png)
+}
+
+*#clear_btn:hover{
+    border-image: url(./image/clear_hover.png)
+}
+
+*#clear_btn:pressed{
+    border-image: url(./image/clear_pressed.png)
+}
+
+#del_btn{
+    border-image: url(./image/del.png)
+}
+
+*#del_btn:hover{
+    border-image: url(./image/del_hover.png)
+}
+
+*#del_btn:pressed{
+    border-image: url(./image/del_pressed.png)
+}
+
+#div_btn{
+    border-image: url(./image/div.png)
+}
+
+*#div_btn:hover{
+    border-image: url(./image/div_hover.png)
+}
+
+*#div_btn:pressed{
+    border-image: url(./image/div_pressed.png)
+}
+
+#sub_btn{
+    border-image: url(./image/sub.png)
+}
+
+*#sub_btn:hover{
+    border-image: url(./image/sub_hover.png)
+}
+
+*#sub_btn:pressed{
+    border-image: url(./image/sub_pressed.png)
+}
+
+#mul_btn{
+    border-image: url(./image/mul.png)
+}
+
+*#mul_btn:hover{
+    border-image: url(./image/mul_hover.png)
+}
+
+*#mul_btn:pressed{
+    border-image: url(./image/mul_pressed.png)
+}
+
+#add_btn{
+    border-image: url(./image/add.png)
+}
+
+*#add_btn:hover{
+    border-image: url(./image/add_hover.png)
+}
+
+*#add_btn:pressed{
+    border-image: url(./image/add_pressed.png)
+}
+
+#dot_btn{
+    border-image: url(./image/dot.png)
+}
+
+*#dot_btn:hover{
+    border-image: url(./image/dot_hover.png)
+}
+
+*#dot_btn:pressed{
+    border-image: url(./image/dot_pressed.png)
+}
+
+#equal_btn{
+    border-image: url(./image/equal.png)
+}
+
+*#equal_btn:hover{
+    border-image: url(./image/equal_hover.png)
+}
+
+*#equal_btn:pressed{
+    border-image: url(./image/equal_pressed.png)
+}
+
