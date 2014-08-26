@@ -1,0 +1,16 @@
+INPUT(
+./tmp\obj\AddStrategy.o
+./tmp\obj\AlgorithmContext.o
+./tmp\obj\Button.o
+./tmp\obj\DivStrategy.o
+./tmp\obj\main.o
+./tmp\obj\MulStrategy.o
+./tmp\obj\SubStrategy.o
+./tmp\obj\TitleBar.o
+./tmp\obj\Ui.o
+./tmp\obj\AlgorithmStrategyFactory.o
+./tmp\obj\qrc_rec.o
+./tmp\obj\moc_Button.o
+./tmp\obj\moc_TitleBar.o
+./tmp\obj\moc_Ui.o
+);
